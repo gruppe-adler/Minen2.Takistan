@@ -1,22 +1,21 @@
 execVM "briefing.sqf";
 
-
 if (isServer) then {
-  publicVariable "keywords = []";
+   keywords = [];
 while {count keywords < 10} do {
     _newWordIdx = floor random 100;
-    if (!(keywords find _newWordIdx)) then {
+    if (!(keywords find _newWordIdx >= 0)) then {
         keywords = keywords + [_newWordIdx];
     };
 };
-
+publicVariable "keywords";
 
 TRAITOR_FOUND0 = false;
 TRAITOR_FOUND1 = false;
 SPY_FOUND = false;
-private "Traitor0 = []";
-private "Traitor1 = []";
-private "Spy = []";
+publicVariable ["Traitor0"];
+publicVariable ["Traitor1"];
+publicVariable ["Spy"];
 while {!TRAITOR_FOUND0} do {{
         Traitor0 = ["SCH1", "SCH0", "GL0", "GL1", "MG0", "MG1", "Medic0", "Medic1", "ING0", "ING1", "ING2", "ING3", "ING4", "ING5"] call BIS_fnc_selectRandom;
         if (str _x == Traitor0) exitWith {

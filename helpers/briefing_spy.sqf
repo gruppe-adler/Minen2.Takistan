@@ -1,5 +1,6 @@
 if (hasInterface) then {
-  keywords call BIS_fnc_arrayShuffle;
+  _keywords1 = keywords
+  _keywords1 call BIS_fnc_arrayShuffle;
   _stringR0 = localize (("TRAITOR_Code_") + (str (keywords select 0)));
   _stringR1 = localize (("TRAITOR_Code_") + (str (keywords select 1)));
   _stringF0 = localize (("TRAITOR_Code_") + (str (keywords select 2)));

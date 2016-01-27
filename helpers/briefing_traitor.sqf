@@ -18,8 +18,8 @@ if (hasInterface) then {
      ["Spezialauftrag", format ["Sie sind ein Schläfer der Taliban in den Reihen der afghanischer Armee.
 	 Töten Sie alle Amerikaner, Deutschen und ihren Vorgestzten Offizier und die beiden Teamleader.
 	 Andere Taliban Einheiten werden auf Sie schießen, da sie Sie nicht identifizieren können.
-	 Wenn sie ein Märtyrer werden, werden sie mit 72 Jungfrauen im Paradies belohnt. Es gibt noch einen weiteren
-   Taliban Schläfer in den Reihen der Afghane, benutzten sie die Codewörter %1 und %2 um sich gegenseitig zu
+   Wenn sie ein Märtyrer werden, werden sie mit 72 Jungfrauen im Paradies belohnt. Es gibt noch einen weiteren
+   Taliban Schläfer in den Reihen der Afghane, benutzten sie die Codewörter, %1, und , %2, um sich gegenseitig zu
    identifiziern.	 Die NSA hat eine Liste an möglichen Codewörtern der Taliban abgefangen, auf dieser Liste
    standen die Wörter: %1, %2, %3, %4, %5, %6, %7, %8, %9, %10"
    ,_stringR0, _stringR1, _stringF0, _stringF1, _stringF2, _stringF3, _stringF4, _stringF5, _stringF6, _stringF7]

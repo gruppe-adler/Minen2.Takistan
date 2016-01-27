@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="COOP_Minen_Project">
+	<Package name="COOP_Minen_Package">
+		<Container name="Default">
+			<Key ID="STR_MISSION_DESC">
+				<Original>Good luck on your mission</Original>
+				<English>Good luck on your mission</English>
+				<German>Viel Erfolg bei der Mission</German>
+			</Key>
+		</Container>
+		<Container name="panda">
+<Key ID="TRAITOR_CODE_1"><Original>Aids</Original></Key>
+<Key ID="TRAITOR_CODE_2"><Original>Antibiotikum</Original></Key>
+<Key ID="TRAITOR_CODE_3"><Original>Apartheid</Original></Key>
+<Key ID="TRAITOR_CODE_4"><Original>Atombombe</Original></Key>
+<Key ID="TRAITOR_CODE_5"><Original>Autobahn</Original></Key>
+<Key ID="TRAITOR_CODE_6"><Original>Automatisierung</Original></Key>
+<Key ID="TRAITOR_CODE_7"><Original>Beat</Original></Key>
+<Key ID="TRAITOR_CODE_8"><Original>Beton</Original></Key>
+<Key ID="TRAITOR_CODE_9"><Original>Bikini</Original></Key>
+<Key ID="TRAITOR_CODE_10"><Original>Blockwart</Original></Key>
+<Key ID="TRAITOR_CODE_11"><Original>Bolschewismus</Original></Key>
+<Key ID="TRAITOR_CODE_12"><Original>Camping</Original></Key>
+<Key ID="TRAITOR_CODE_13"><Original>Comics</Original></Key>
+<Key ID="TRAITOR_CODE_14"><Original>Darmspiegelung</Original></Key>
+<Key ID="TRAITOR_CODE_15"><Original>Demokratisierung</Original></Key>
+<Key ID="TRAITOR_CODE_16"><Original>Demonstration</Original></Key>
+<Key ID="TRAITOR_CODE_17"><Original>Demoskopie</Original></Key>
+<Key ID="TRAITOR_CODE_18"><Original>Deportation</Original></Key>
+<Key ID="TRAITOR_CODE_19"><Original>Design</Original></Key>
+<Key ID="TRAITOR_CODE_20"><Original>Doping</Original></Key>
+<Key ID="TRAITOR_CODE_21"><Original>Drahtwurm</Original></Key>
+<Key ID="TRAITOR_CODE_22"><Original>Drogen</Original></Key>
+<Key ID="TRAITOR_CODE_23"><Original>Emulgator</Original></Key>
+<Key ID="TRAITOR_CODE_24"><Original>Emanzipation</Original></Key>
+<Key ID="TRAITOR_CODE_25"><Original>Energiekrise</Original></Key>
+<Key ID="TRAITOR_CODE_26"><Original>Entsorgung</Original></Key>
+<Key ID="TRAITOR_CODE_27"><Original>Faschismus</Original></Key>
+<Key ID="TRAITOR_CODE_28"><Original>Fernsehen</Original></Key>
+<Key ID="TRAITOR_CODE_29"><Original>Film</Original></Key>
+<Key ID="TRAITOR_CODE_30"><Original>Fließband</Original></Key>
+<Key ID="TRAITOR_CODE_31"><Original>Flugzeug</Original></Key>
+<Key ID="TRAITOR_CODE_32"><Original>Freizeit</Original></Key>
+<Key ID="TRAITOR_CODE_33"><Original>Friedensbewegung</Original></Key>
+<Key ID="TRAITOR_CODE_34"><Original>Führer</Original></Key>
+<Key ID="TRAITOR_CODE_35"><Original>Fundamentalismus</Original></Key>
+<Key ID="TRAITOR_CODE_36"><Original>Gen</Original></Key>
+<Key ID="TRAITOR_CODE_37"><Original>Globalisierung</Original></Key>
+<Key ID="TRAITOR_CODE_38"><Original>Holocaust</Original></Key>
+<Key ID="TRAITOR_CODE_39"><Original>Image</Original></Key>
+<Key ID="TRAITOR_CODE_40"><Original>Inflation</Original></Key>
+<Key ID="TRAITOR_CODE_41"><Original>Indien</Original></Key>
+<Key ID="TRAITOR_CODE_42"><Original>Jeans</Original></Key>
+<Key ID="TRAITOR_CODE_43"><Original>Jugendstil</Original></Key>
+<Key ID="TRAITOR_CODE_44"><Original>Kamikaze</Original></Key>
+<Key ID="TRAITOR_CODE_45"><Original>Kaugummi</Original></Key>
+<Key ID="TRAITOR_CODE_46"><Original>Klimakatastrophe</Original></Key>
+<Key ID="TRAITOR_CODE_47"><Original>Kommunikation</Original></Key>
+<Key ID="TRAITOR_CODE_48"><Original>Konzentrationslager</Original></Key>
+<Key ID="TRAITOR_CODE_49"><Original>Kreditkarte</Original></Key>
+<Key ID="TRAITOR_CODE_50"><Original>Kugelschreiber</Original></Key>
+<Key ID="TRAITOR_CODE_51"><Original>Luftkrieg</Original></Key>
+<Key ID="TRAITOR_CODE_52"><Original>Mafia</Original></Key>
+<Key ID="TRAITOR_CODE_53"><Original>Manipulation</Original></Key>
+<Key ID="TRAITOR_CODE_54"><Original>Massenmedien</Original></Key>
+<Key ID="TRAITOR_CODE_55"><Original>Molotowcocktail</Original></Key>
+<Key ID="TRAITOR_CODE_56"><Original>Mondlandung</Original></Key>
+<Key ID="TRAITOR_CODE_57"><Original>Oktoberrevolution</Original></Key>
+<Key ID="TRAITOR_CODE_58"><Original>Panzer</Original></Key>
+<Key ID="TRAITOR_CODE_59"><Original>Perestroika</Original></Key>
+<Key ID="TRAITOR_CODE_60"><Original>Pille</Original></Key>
+<Key ID="TRAITOR_CODE_61"><Original>Planwirtschaft</Original></Key>
+<Key ID="TRAITOR_CODE_62"><Original>Pop</Original></Key>
+<Key ID="TRAITOR_CODE_63"><Original>Psychoanalyse</Original></Key>
+<Key ID="TRAITOR_CODE_64"><Original>Radarstation</Original></Key>
+<Key ID="TRAITOR_CODE_65"><Original>Radio</Original></Key>
+<Key ID="TRAITOR_CODE_66"><Original>Reißverschluss</Original></Key>
+<Key ID="TRAITOR_CODE_67"><Original>Relativitätstheorie</Original></Key>
+<Key ID="TRAITOR_CODE_68"><Original>Rockfestival</Original></Key>
+<Key ID="TRAITOR_CODE_69"><Original>Satellit</Original></Key>
+<Key ID="TRAITOR_CODE_70"><Original>Säuberung</Original></Key>
+<Key ID="TRAITOR_CODE_71"><Original>Schauprozess</Original></Key>
+<Key ID="TRAITOR_CODE_72"><Original>Schreibtischtäter</Original></Key>
+<Key ID="TRAITOR_CODE_73"><Original>Schwarzarbeit</Original></Key>
+<Key ID="TRAITOR_CODE_74"><Original>Schwanz</Original></Key>
+<Key ID="TRAITOR_CODE_75"><Original>schwul</Original></Key>
+<Key ID="TRAITOR_CODE_76"><Original>Selbstverwirklichung</Original></Key>
+<Key ID="TRAITOR_CODE_77"><Original>Sex</Original></Key>
+<Key ID="TRAITOR_CODE_78"><Original>Single</Original></Key>
+<Key ID="TRAITOR_CODE_79"><Original>Sozialismus</Original></Key>
+<Key ID="TRAITOR_CODE_80"><Original>Sport</Original></Key>
+<Key ID="TRAITOR_CODE_81"><Original>Sputnik</Original></Key>
+<Key ID="TRAITOR_CODE_82"><Original>Star</Original></Key>
+<Key ID="TRAITOR_CODE_83"><Original>Stau</Original></Key>
+<Key ID="TRAITOR_CODE_84"><Original>Sterbehilfe</Original></Key>
+<Key ID="TRAITOR_CODE_85"><Original>Streber</Original></Key>
+<Key ID="TRAITOR_CODE_86"><Original>Terrorismus</Original></Key>
+<Key ID="TRAITOR_CODE_87"><Original>U-Boot</Original></Key>
+<Key ID="TRAITOR_CODE_88"><Original>Umweltschutz</Original></Key>
+<Key ID="TRAITOR_CODE_89"><Original>Urknall</Original></Key>
+<Key ID="TRAITOR_CODE_90"><Original>Verdrängungsvolumen</Original></Key>
+<Key ID="TRAITOR_CODE_91"><Original>Vitamin</Original></Key>
+<Key ID="TRAITOR_CODE_92"><Original>Völkerbund</Original></Key>
+<Key ID="TRAITOR_CODE_93"><Original>Völkermord</Original></Key>
+<Key ID="TRAITOR_CODE_94"><Original>Volkswagen</Original></Key>
+<Key ID="TRAITOR_CODE_95"><Original>Währungsreform</Original></Key>
+<Key ID="TRAITOR_CODE_96"><Original>Weltkrieg</Original></Key>
+<Key ID="TRAITOR_CODE_97"><Original>Wende</Original></Key>
+<Key ID="TRAITOR_CODE_98"><Original>Xylophon</Original></Key>
+<Key ID="TRAITOR_CODE_99"><Original>Wiedervereinigung</Original></Key>
+<Key ID="TRAITOR_CODE_100"><Original>Zytotoxin</Original></Key>
+		</Container>
+	</Package>
+</Project>
+Add Comment C

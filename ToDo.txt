@@ -1,0 +1,9 @@
+Codewörter zufällig auswählen (fertig) Test fehlt noch
+Briefing Spion
+	Die 8 falschen Codewörter müssen mit den 2 richtigen gemixt werden (fertig) Test fehlt noch
+Bild Spion (fertig)
+Medic einstellungen überarbeiten
+	Tote werden Zeus
+	man kann 1 mal niedergeschossen werden und dann wiederbelbet werden
+Gegner platzieren (fertig)
+Eden rausnehmen

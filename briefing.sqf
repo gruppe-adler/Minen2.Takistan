@@ -8,7 +8,7 @@ switch (side player) do
 case WEST: // BLUFOR briefing goes here
 {
 player createDiaryRecord ["Diary", ["militärische Mittel", "Ein Squad Amerikaner, die das Oberkommando innehaben und die Afghane ausbilden.
-Ein Squad Deutscher, die mittels Fennek und Drohne aufklären können. Ein Zug afghanischer Pioniere die im Minenräumen ausgebildet werden sollen. 
+Ein Squad Deutscher, die mittels Fennek und Drohne (wurde leider abgeschossen) aufklären können. Ein Zug afghanischer Pioniere die im Minenräumen ausgebildet werden sollen. 
 Außerdem steht innen Artellerie zur verfügung, die Sie über das Hauptquartier (Zeus) anfordern können.
 Das Hauptquartier ist über die Frequenz 80 mit dem Langstreckenfunkgerät erreichbar."]];
 player createDiaryRecord ["Diary", ["politische Lage", "Das Verhältniss der NATO (USA und Deutschland) und der afghanischen Regierung ist angespannt,

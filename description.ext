@@ -7,7 +7,7 @@ respawnTemplates[] = {"ace_spectator"};
 respawnTemplatesWest[] = {"ace_spectator"};
 respawnTemplatesEast[] = {"ace_spectator"};
 respawnTemplatesIndependent[] = {"ace_spectator"};
-enableDebugConsole = 1;
+
 
 #include "_defines.hpp"
 #include "_dialogs.hpp"

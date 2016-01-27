@@ -8,5 +8,5 @@ Medic einstellungen überarbeiten
 	man kann 1 mal niedergeschossen werden und dann wiederbelbet werden (fertig)
 Gegner platzieren (fertig)
 Eden rausnehmen (fertig)
-Funkgerät Problem beheben 
+Funkgerät Problem beheben (fertig)
  

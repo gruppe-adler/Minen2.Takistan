@@ -1,8 +1,8 @@
-Codewörter zufällig auswählen (fertig) Test fehlt noch
+Codewörter zufällig auswählen (fertig) Test fehlt noch (geteste, funktioniert)
 Briefing Spion
-	Die 8 falschen Codewörter müssen mit den 2 richtigen gemixt werden (fertig) Test fehlt noch
-Bild Spion (fertig)
-Traitor auswählen (funktioniert noch net)
+	Die 8 falschen Codewörter müssen mit den 2 richtigen gemixt werden (fertig) Test fehlt noch (getested, funktioniert)
+Bild Spion (fertig) muss noch überarbeitet werden
+Traitor/Spy auswählen (funktioniert)
 Medic einstellungen überarbeiten 
 	Tote werden Zeus
 	man kann 1 mal niedergeschossen werden und dann wiederbelbet werden (fertig)

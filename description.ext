@@ -2,6 +2,7 @@ enableDebugConsole = 1;
 author = "Panda (Idee) und nomisum (der Rest) für Gruppe Adler";
 
 respawn = 5;
+enableTeamSwitch = 1;
 respawnDelay = 999999;
 respawnTemplates[] = {"ace_spectator"};
 respawnTemplatesWest[] = {"ace_spectator"};
